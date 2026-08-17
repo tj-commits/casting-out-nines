@@ -1,0 +1,20 @@
+{
+  "name": "casting-out-nines",
+  "version": "1.0.0",
+  "description": "checks multiplication problems with the cast nines method",
+  "homepage": "https://github.com/tj-commits/casting-out-nines#readme",
+  "bugs": {
+    "url": "https://github.com/tj-commits/casting-out-nines/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tj-commits/casting-out-nines.git"
+  },
+  "license": "MIT",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
